@@ -1,7 +1,7 @@
 package com.epam.collections;
 import java.util.Scanner;
 
-public class Imp extends List {
+public class Main extends Lists {
 	public static void main(String[] args) {
 
 		@SuppressWarnings("resource")
