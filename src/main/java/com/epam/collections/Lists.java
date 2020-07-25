@@ -1,7 +1,7 @@
 package com.epam.collections;
 import java.util.ArrayList; 
 
-public class List {
+public class Lists {
 	ArrayList<Integer> arraylist = new ArrayList<Integer>(10);
 
 	List()
